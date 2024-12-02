@@ -25,5 +25,5 @@ export default function part2(input) {
   return result;
 }
 
-const input = puzzle('input.txt');
+const input = puzzle('testInput.txt');
 console.log(part2(input));

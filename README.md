@@ -1,4 +1,5 @@
 # Advent of Code 2024 - Solutions
+
 [![Build Status](https://github.com/the-chowdary/advent-of-code-2024/workflows/build/badge.svg)](https://github.com/the-chowdary/advent-of-code-2024/actions)
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/the-chowdary/advent-of-code-2024/master/.github/badges/completion.json)](https://github.com/the-chowdary/advent-of-code-2024)
 
